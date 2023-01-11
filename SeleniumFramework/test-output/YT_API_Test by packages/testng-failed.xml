@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [YT_API_Test by packages]" guice-stage="DEVELOPMENT">
+  <test name="YTPackage" verbose="2">
+    <packages>
+      <package name="YTPackage"/>
+    </packages>
+    <classes>
+      <class name="YTPackage.YTClass"/>
+    </classes>
+  </test> <!-- YTPackage -->
+</suite> <!-- Failed suite [YT_API_Test by packages] -->
